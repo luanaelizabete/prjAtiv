@@ -1,5 +1,5 @@
 body{
-background-image:"./img/cabecalho.png";
+background-image:url("../img/cabecalho.png");
 background-color:#FFF7D4;
 font-family: Arial, Helvetica, sans-serif;
 background-repeat: repeat-y;
@@ -7,7 +7,7 @@ background-repeat: repeat-y;
 
 h1, h2{
     color: #8F6800;
-    margin: 150px;
+    margin-left: 150px;
     padding: auto;
 }
 
