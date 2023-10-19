@@ -1,0 +1,34 @@
+body{
+background-image:"./img/cabecalho.png";
+background-color:#FFF7D4;
+font-family: Arial, Helvetica, sans-serif;
+background-repeat: repeat-y;
+}
+
+h1, h2{
+    color: #8F6800;
+    margin: 150px;
+    padding: auto;
+}
+
+h3 {
+    padding: auto;
+    margin-left: 150px;
+    color: #ffff;
+    padding: 10px 20px;
+    background-color:#D38D00;
+}
+
+p{
+    margin-left: 180px;
+    padding: auto;
+}
+
+
+hr{
+  margin-left: 150px;
+  border-width: 2px;
+  padding: auto;
+  border-color: #D38D00;
+  border-style: dashed;
+}
